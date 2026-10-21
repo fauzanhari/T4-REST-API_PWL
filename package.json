@@ -1,0 +1,13 @@
+{
+  "name": "t4-rest-api",
+  "version": "1.0.0",
+  "description": "Tugas 4 Pemrograman Web Lanjut - REST API olahraga favorit menggunakan Express",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node --watch index.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
